@@ -1,0 +1,278 @@
+/*================================================================================
+Item Name: Frest HTML Admin Template
+Version: 1.0
+Author: PIXINVENT
+Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+/* BEGIN :: Card With Hyperlink */
+
+a .card h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+a .card h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+a .card h3 {
+    text-align: center;
+    color: #ffffff;
+}
+
+a .card h4 {
+    text-align: center;
+    color: #ffffff;
+}
+
+a .card h5 {
+    text-align: center;
+    color: #ffffff;
+}
+
+a .card {
+    background: linear-gradient(
+        225deg,
+        rgba(147, 219, 231, 1) 0%,
+        rgb(150, 208, 255) 100%
+    );
+    color: #ffffff;
+    fill: #ffffff;
+}
+
+a .card:hover {
+    transform: scale(101%);
+    background: #ffffff;
+    /* color: rgba(147, 219, 231); */
+    box-shadow: 0px 0px 16px 3px rgba(25, 42, 70, 0.13);
+    fill: #8991d6;
+}
+
+a .card:hover h1 {
+    color: #8991d6;
+}
+
+a .card:hover h2 {
+    color: #8991d6;
+}
+
+a .card:hover h3 {
+    color: #8991d6;
+}
+
+a .card:hover h4 {
+    color: #8991d6;
+}
+
+a .card:hover h5 {
+    color: #8991d6;
+}
+
+.card-header.mainmenu-header {
+    padding: 0.5rem 0.75rem 1rem;
+}
+
+.card-header.mainmenu-header h5 {
+    text-transform: uppercase;
+}
+
+/* END :: Card With Hyperlink */
+
+.gradient {
+    background: linear-gradient(
+        225deg,
+        rgba(147, 219, 231, 1) 0%,
+        rgb(150, 208, 255) 100%
+    );
+    color: #ffffff !important;
+}
+
+/* BEGIN :: Button Styling */
+
+.btn {
+    -webkit-transition: all 0.1s ease-in-out, background 0.25s, color 0.1s,
+        border-color 0s !important;
+    transition: all 0.1s ease-in-out, background 0.25s, color 0.1s,
+        border-color 0s !important;
+}
+
+.btn-primary {
+    background-color: #ffffff;
+    color: #bebfbf;
+    border: 1px solid #ffffff;
+}
+
+.btn-primary:hover {
+    color: #363a3a;
+    box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.1) inset;
+    border: 1px solid #ffffff;
+}
+
+.btn-primary:focus,
+.btn-primary.focus {
+    color: #363a3a !important;
+    border: 1px solid #ffffff !important;
+    box-shadow: 0px 0px 16px 3px rgba(0, 0, 0, 0.1) !important;
+}
+
+.btn-primary.bg-white {
+    background-color: #ffffff;
+    border: 1px solid #bebfbf;
+}
+
+.btn-primary.bg-white:hover {
+    color: #ffffff;
+    background-color: #bebfbf !important;
+    box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.1) inset;
+    border: 1px solid #bebfbf;
+}
+
+.btn-primary.bg-white:focus,
+.btn-primary.bg-white.focus {
+    color: #ffffff !important;
+    background-color: #bebfbf !important;
+    border: 1px solid #bebfbf !important;
+    box-shadow: 0px 0px 4px 0 rgba(0, 0, 0, 0.1) inset !important;
+}
+
+.btn-primary-invert {
+    color: #ffffff;
+    background: linear-gradient(
+        225deg,
+        rgba(147, 219, 231, 1) 0%,
+        rgb(150, 208, 255) 100%
+    );
+    border: 1px solid #ffffff;
+}
+
+.btn-primary-invert:hover {
+    color: #8991d6;
+    background: #ffffff;
+    border: 1px solid #ffffff;
+}
+
+.btn-primary-invert:focus,
+.btn-primary-invert.focus {
+    color: #8991d6 !important;
+    background: #ffffff !important;
+    border: 1px solid #ffffff !important;
+    box-shadow: 0 0 0 0.2rem rgba(115, 158, 241, 0.5) !important;
+}
+
+.btn-primary-invert.bg-white {
+    color: #ffffff;
+    background: linear-gradient(
+        225deg,
+        rgba(147, 219, 231, 1) 0%,
+        rgb(150, 208, 255) 100%
+    );
+    border: 2px solid rgb(147, 219, 231);
+}
+
+.btn-primary-invert.bg-white:hover {
+    color: #ffffff;
+    background: linear-gradient(
+        225deg,
+        rgba(137, 209, 221, 1) 0%,
+        rgb(140, 198, 245) 100%
+    ) !important;
+    border: 2px solid #ffffff;
+}
+
+.btn-primary-invert.bg-white:focus,
+.btn-primary-invert.bg-white.focus {
+    color: #ffffff !important;
+    background: linear-gradient(
+        225deg,
+        rgba(137, 209, 221, 1) 0%,
+        rgb(140, 198, 245) 100%
+    ) !important;
+    border: 2px solid #ffffff !important;
+}
+
+.nav.navbar-nav.back-button {
+    position: absolute;
+    top: 1.3rem;
+    left: 1.7rem;
+}
+
+.btn-invis {
+    border: none;
+    background: none;
+    all: unset;
+    cursor: pointer;
+}
+
+/* END :: Button Styling */
+
+/* BEGIN :: Select Styling */
+
+/* END :: Select Styling */
+
+#login-header {
+    padding: 0.75rem 1.7rem;
+}
+
+.vert-top {
+    vertical-align: top;
+}
+
+.login-bg img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    object-fit: cover;
+    object-position: left bottom;
+    height: 50vh;
+    width: 100vw;
+    opacity: 0.5;
+}
+
+.login-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 50%;
+}
+
+.height-25vh {
+    height: 25vh;
+}
+
+.height-65vh {
+    height: 65vh;
+}
+
+.width-3rem {
+    width: 3rem;
+}
+
+/* .table th, .table td {
+  padding: 0.75rem 1rem;
+  vertical-align: middle;
+  border-top: 1px solid #dfe3e7;
+} */
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background: linear-gradient(
+        225deg,
+        rgba(147, 219, 231, 1) 0%,
+        rgb(150, 208, 255) 100%
+    );
+    color: white;
+}
+
+.bx.bx-lg {
+    font-size: 5rem;
+}
+
+.disabled.text-warning, :disabled.text-warning {
+    background-color: #fdac41 !important;
+    color: #ffffff !important;
+}

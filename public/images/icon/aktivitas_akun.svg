@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 467.23 495.73"
+   version="1.1"
+   sodipodi:docname="Aktivitas Akun.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2070"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.759022"
+     inkscape:cx="233.36831"
+     inkscape:cy="248.14925"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs2048">
+    <style
+       id="style2046">.cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:32px;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <path
+     style="color:#000000;fill:#ffffff;stroke-miterlimit:10;-inkscape-stroke:none"
+     d="m 93.300781,17.429687 c -31.080817,0 -56.621094,25.540277 -56.621094,56.621094 V 426.25977 c -0.0055,31.08279 25.5383,56.62658 56.621094,56.62109 H 269.08008 v -32 h -175.781252 -0.002 c -13.786253,0.003 -24.620583,-10.83093 -24.617188,-24.61719 v -0.002 -352.210939 c 0,-13.786751 10.834343,-24.621093 24.621094,-24.621094 H 362.06055 c 13.78675,0 24.61914,10.834343 24.61914,24.621094 V 233.19922 h 32 V 74.050781 c 0,-31.080817 -25.53833,-56.621094 -56.61914,-56.621094 z"
+     id="path2050"
+     transform="translate(-36.68 -17.43)" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="64.66"
+     width="278.44"
+     height="19.34"
+     id="rect2052" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="116.41"
+     width="278.44"
+     height="19.34"
+     id="rect2054" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="169.13"
+     width="278.44"
+     height="19.34"
+     id="rect2056" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="223.06"
+     width="245.4"
+     height="19.34"
+     id="rect2058" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="277.94"
+     width="241.71"
+     height="19.34"
+     id="rect2060" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="331.86"
+     width="245.4"
+     height="19.34"
+     id="rect2062" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="385.31"
+     width="193.14"
+     height="19.34"
+     id="rect2064" />
+  <path
+     style="color:#000000;fill:#ffffff;stroke-miterlimit:10;-inkscape-stroke:none"
+     d="m 377.5293,342.49023 c -30.35846,0 -55.05292,10.20285 -73.25391,25.37891 -18.20098,15.17606 -30.08927,34.77427 -38.09961,53.72656 -16.02068,37.9046 -17.0957,75.01563 -17.0957,75.01563 l -0.56836,16.54883 h 16.55859 238.83985 l -0.28321,-16.27735 c 0,0 -0.43252,-37.10872 -15.83203,-75.07226 -7.69975,-18.98178 -19.28476,-38.63768 -37.29297,-53.86914 -18.0082,-15.23146 -42.6142,-25.45118 -72.97265,-25.45118 z m 0,32 c 23.49149,0 39.57425,7.11368 52.30664,17.88282 12.73239,10.76914 21.94195,25.7811 28.30468,41.46679 7.18668,17.71692 10.37311,35.01671 11.94727,47.32032 H 282.91602 c 1.79994,-12.30079 5.29324,-29.49993 12.73437,-47.10547 6.64214,-15.71517 16.13508,-30.78484 29.11719,-41.60938 12.98211,-10.82454 29.27023,-17.95508 52.76172,-17.95508 z"
+     id="Path_53"
+     transform="translate(-36.68 -17.43)" />
+  <path
+     style="color:#000000;fill:#ffffff;stroke-miterlimit:10;-inkscape-stroke:none"
+     d="m 339.66992,193.73047 c -41.93872,0 -76.2793,34.34057 -76.2793,76.2793 0,41.93872 34.34058,76.27929 76.2793,76.27929 41.93873,0 76.2793,-34.34057 76.2793,-76.27929 0,-41.93873 -34.34057,-76.2793 -76.2793,-76.2793 z m 0,32 c 24.64466,0 44.2793,19.63464 44.2793,44.2793 0,24.64465 -19.63464,44.27929 -44.2793,44.27929 -24.64466,0 -44.27929,-19.63464 -44.2793,-44.27929 0,-24.64466 19.63464,-44.2793 44.2793,-44.2793 z"
+     id="circle2067" />
+</svg>

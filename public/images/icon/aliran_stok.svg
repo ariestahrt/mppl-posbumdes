@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 464.03 492.6"
+   version="1.1"
+   sodipodi:docname="Aliran Stok.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1883"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.7701989"
+     inkscape:cx="231.89484"
+     inkscape:cy="20.619152"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <path
+     d="m 87.109375,18.269531 c -31.080817,0 -56.619141,25.540277 -56.619141,56.621094 V 427.09961 c 0,31.08082 25.538324,56.62109 56.619141,56.62109 H 306 v -32 H 87.109375 c -13.786751,0 -24.619141,-10.83434 -24.619141,-24.62109 V 74.890625 c 0,-13.786751 10.83239,-24.621094 24.619141,-24.621094 H 355.86914 c 13.78675,0 24.62109,10.834343 24.62109,24.621094 V 247 h 32 V 74.890625 c 0,-31.080817 -25.54027,-56.621094 -56.62109,-56.621094 z"
+     id="path1846"
+     transform="translate(-30.49 -18.27)" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="64.66"
+     width="278.44"
+     height="19.34"
+     id="rect1848" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="116.41"
+     width="278.44"
+     height="19.34"
+     id="rect1850" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="169.13"
+     width="278.44"
+     height="19.34"
+     id="rect1852" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="223.06"
+     width="227.09"
+     height="19.34"
+     id="rect1854" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="277.94"
+     width="149.74"
+     height="19.34"
+     id="rect1856" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="331.86"
+     width="144.68"
+     height="19.34"
+     id="rect1858" />
+  <rect
+     class="cls-2"
+     x="53.71"
+     y="385.31"
+     width="149.74"
+     height="19.34"
+     id="rect1860" />
+  <rect
+     class="cls-2"
+     x="411.04"
+     y="352.09"
+     width="145.47"
+     height="21.48"
+     rx="10.66"
+     transform="translate(90.46 828.33) rotate(-90)"
+     id="rect1862" />
+  <rect
+     class="cls-2"
+     x="282.16"
+     y="426"
+     width="149.5"
+     height="19.13"
+     rx="9.5"
+     transform="translate(-109.14 774.2) rotate(-90)"
+     id="rect1864" />
+  <rect
+     class="cls-2"
+     x="337.88"
+     y="325.98"
+     width="149.5"
+     height="19.13"
+     rx="9.5"
+     transform="translate(-144.71 244.62) rotate(-31.27)"
+     id="rect1866" />
+  <rect
+     class="cls-2"
+     x="221.73"
+     y="325.98"
+     width="149.5"
+     height="19.13"
+     rx="9.5"
+     transform="translate(345.27 757.96) rotate(-148.73)"
+     id="rect1868" />
+  <rect
+     class="cls-2"
+     x="335.45"
+     y="448.97"
+     width="167.95"
+     height="26.51"
+     rx="13.16"
+     transform="translate(-205.41 253.36) rotate(-30)"
+     id="rect1870" />
+  <rect
+     class="cls-2"
+     x="209.04"
+     y="448.19"
+     width="170.76"
+     height="26.51"
+     rx="13.16"
+     transform="translate(288.18 990) rotate(-150)"
+     id="rect1872" />
+  <rect
+     class="cls-2"
+     x="282.16"
+     y="282.38"
+     width="149.5"
+     height="19.13"
+     rx="9.5"
+     transform="translate(479.98 708.45) rotate(-148.73)"
+     id="rect1874" />
+  <rect
+     class="cls-2"
+     x="154.83"
+     y="352.78"
+     width="146.86"
+     height="21.48"
+     rx="10.66"
+     transform="translate(-165.75 573.51) rotate(-90)"
+     id="rect1876" />
+  <rect
+     class="cls-2"
+     x="207.06"
+     y="250.22"
+     width="163.11"
+     height="19.13"
+     rx="9.5"
+     transform="translate(-123.4 169.25) rotate(-31.27)"
+     id="rect1878" />
+  <rect
+     class="cls-2"
+     x="331.89"
+     y="251.42"
+     width="171.1"
+     height="19.13"
+     rx="9.5"
+     transform="translate(617.98 677.46) rotate(-150)"
+     id="rect1880" />
+</svg>

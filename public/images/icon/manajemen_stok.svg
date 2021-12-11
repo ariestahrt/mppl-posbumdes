@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 508 470"
+   version="1.1"
+   sodipodi:docname="Manajemen Stok.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1124"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.8553191"
+     inkscape:cx="254.13417"
+     inkscape:cy="235.2695"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <path
+     
+     d="m 32.509766,297.44922 v 9 139.88086 H 181.39062 V 297.44922 Z m 18,18 H 163.39062 V 428.33008 H 50.509766 Z"
+     id="rect1097" />
+  <path
+     
+     d="m 176.76953,297.44922 v 9 139.88086 H 325.65039 V 297.44922 Z m 18,18 H 307.65039 V 428.33008 H 194.76953 Z"
+     id="rect1099" />
+  <path
+     
+     d="m 324.88086,297.44922 v 9 139.88086 H 473.75977 V 297.44922 Z m 18,18 H 455.75977 V 428.33008 H 342.88086 Z"
+     id="rect1101" />
+  <path
+     
+     d="M 177.01953,0 V 9 148.88086 H 325.90039 V 0 Z m 18,18 H 307.90039 V 130.88086 H 195.01953 Z"
+     id="rect1103" />
+  <rect
+     class="cls-2"
+     x="240.18"
+     y="5"
+     width="21.71"
+     height="39.51"
+     id="rect1105"
+      />
+  <path
+     
+     d="m 105.42969,148.73047 v 9 139.8789 h 148.88086 v -148.8789 z m 18,18 h 112.88086 v 112.8789 H 123.42969 Z"
+     id="rect1107" />
+  <rect
+     class="cls-2"
+     x="168.59"
+     y="157.73"
+     width="21.71"
+     height="39.51"
+     id="rect1109"
+      />
+  <path
+     
+     d="m 245.66992,148.73047 v 9 139.8789 h 148.88086 v -148.8789 z m 18,18 h 112.88086 v 112.8789 H 263.66992 Z"
+     id="rect1111" />
+  <rect
+     class="cls-2"
+     x="308.82"
+     y="157.73"
+     width="21.71"
+     height="39.51"
+     id="rect1113"
+      />
+  <rect
+     class="cls-2"
+     x="98.47"
+     y="306.45"
+     width="21.71"
+     height="39.51"
+     id="rect1115"
+      />
+  <rect
+     class="cls-2"
+     x="238.71"
+     y="306.45"
+     width="21.71"
+     height="39.51"
+     id="rect1117"
+      />
+  <rect
+     class="cls-2"
+     x="388.46"
+     y="306.45"
+     width="21.71"
+     height="39.51"
+     id="rect1119"
+      />
+  <rect
+     class="cls-2"
+     y="439.09"
+     width="508"
+     height="30.91"
+     rx="15.45"
+     id="rect1121"
+      />
+</svg>
