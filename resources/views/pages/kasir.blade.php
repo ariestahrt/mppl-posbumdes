@@ -22,7 +22,7 @@
       <div class="card h-100 p-1 mb-0">
          <div class="d-flex mainmenu-header mb-1 align-items-center">
             <div class="mr-auto justify-content-end">
-            <img src="{{asset('images/backgrounds/pos.png')}}" alt="" style="width: 10rem;">
+            <img src="{{asset('images/backgrounds/pos_color.png')}}" alt="" style="width: 10rem;">
             </div>
             <div class="float-right d-flex justify-content-end align-items-center">
                <i class="bx bx-search mr-1"></i>

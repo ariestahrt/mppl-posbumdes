@@ -24,7 +24,7 @@
             <div style="position: absolute; bottom: 80%;">
                <img src="{{asset('images/cards/logo1.png')}}" alt="" style="width: 15rem;">
             </div>
-            <h3 class="mt-1">POS BUMDES TIHINGAN</h4>
+            <h3 class="mt-1">POS BUMDES</h4>
          </div>
          <div class="card-body">
             <form class="form" onsubmit="return postInfo()">
